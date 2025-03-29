@@ -1,4 +1,4 @@
-module github.com/cloudy-sky-software/pulschema
+module github.com/phillarson-xyz/pulschema
 
 go 1.22.5
 
